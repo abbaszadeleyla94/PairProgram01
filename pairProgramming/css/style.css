@@ -1,0 +1,193 @@
+html ,body {
+	margin:0;
+	padding:0;
+	background:#00257F url("../pairProgramming/images/bg.jpg") repeat ;
+}
+.main{
+	width: 1360px
+}
+.lobya{
+	width: 100%;
+	height: 165px;
+	background-color: #1147A1;
+	margin-bottom: -150px
+}
+.siteName {
+	width: 300px;
+	height: 165px;
+	background-color:#008CFF ;
+	position:absolute;
+	left:200px;
+}
+.siteName p {
+	color:white;
+	margin:45px auto;
+	text-align: center;
+	font-size:50px;
+}
+.menu{
+	float: right;
+}
+.menu ul li {
+
+	float: left;
+    list-style-type: none;
+    border-right: 1px solid lightblue;
+    padding: 5px;
+    padding-top: 135px; 
+    padding-right: 20px;
+    position: relative;
+    right: 360px;
+ 	top:-12px;
+    margin: 0px 10px 0px 10px ;
+}
+.menu ul li a {
+	color: #00ABFF;
+	text-decoration: none;
+}
+.menu ul li a:hover {
+	color:#1557C4;
+}
+.siteSearch {
+	width:300px;
+	height: 100px;
+	background-color:#1557C4;
+	position: relative;
+	left:200px;
+	top:150px;
+}
+
+.siteSearch p {
+	color:white;
+	margin:0;
+	position: relative;
+	top:10px;
+	left:10px;
+	font-size:20px;
+}
+.siteSearch form input:first-child{
+	width: 225px;
+	height: 35px;
+	background-color: #1147A1;
+	border:1px solid transparent;
+	position: relative;
+	top:15px;
+	left:10px;
+}
+
+.earum{
+	width:300px;
+	height: 1000px;
+	background-color: #1147A1;
+	position: relative;
+	left:200px;
+	top:150px;
+}
+.earum h1 {
+	margin:0;
+	padding: 0;
+	color:white;
+	position: relative;
+	left:22px;
+	top:30px;
+}
+.earum p {
+	color:#00ABFF;
+	text-align: center;
+}
+hr {
+	border: 0;
+    height: 1px;
+    width:87%;
+    background: #00ABFF;
+}
+.earum img{
+	border:4px solid white;
+	position: relative;
+	left: 22px;
+}
+.badimcan p{
+	float:right;
+	position: relative;
+	right:35px;
+	bottom:10px;
+}
+.moreButton {
+	width: 50px;
+	height: 20px;
+	background-color: #008CFF;
+	position: relative;
+	left:150px;
+	bottom:20px;
+}
+.firstFooter {
+	height: 300px;
+	width: 100%;
+	background-color: #008CFF;
+	position: relative;
+	top:140px;
+}
+.firstPart p:first-child{
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left:200px;
+	top:50px;
+	font-size:25px;
+}
+
+.firstPart  hr {
+	position: relative;
+	top:100px;
+	right: 75px;
+	width: 800px
+}
+.firstPart pre {
+	font-family:sans-serif;
+	position: relative;
+	left:235px;
+	top:80px;
+	font-size:15px;
+}
+.firstPart pre + p {
+	position: relative;
+	top:100px;
+	left:200px;
+	font-size:15px;
+	color:white;
+}
+.firstPart p:last-child{
+	position: relative;
+	left:200px;
+	top:100px;
+}
+.secondPart pre {
+	margin-left:310px;
+	margin-top:-120px;
+}
+.secondPart p:last-child{
+	margin-left:300px;
+}
+.quickContact {
+	margin-left:900px;
+	margin-top:-200px;
+	color:white;
+}
+.secondFooter{
+	height: 85px;
+	width: 100%;
+	background-color: white;
+	position: relative;
+	top:119px;
+}
+.secondContactPart {
+	margin-left: 900px;
+	margin-top: 20px
+}
+.secondContactPart p {
+	color:#1172A1;
+}
+.thirdContactPart {
+	color:white;
+	margin-left: 900px
+}
